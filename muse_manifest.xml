@@ -1,15 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Delta-Yunnan.github.io/about-us" resolutions="1x" timestamp="1522497052826">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Delta-Yunnan.github.io/about-us" resolutions="1x" timestamp="1522500896161">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3771300206" ref="index"/>
+    <file name="index.css" crc="8701825" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
-  <file name="index.html" crc="4191206738" seo="true" mt="1522493897703" redirect="true"/>
+  <folder name="images">
+    <file name="psb9hc0j036.jpg" crc="4093073733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="psb5a7kc5nv.jpg" crc="211986713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="qq图片20180331204450.jpg" crc="264614206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="239365266" seo="true" mt="1522500817059" redirect="true"/>
 </manifest>
